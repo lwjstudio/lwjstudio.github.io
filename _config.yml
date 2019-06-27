@@ -40,11 +40,11 @@ navbar-links:
 
 # --- Background colour/image options --- #
 
-# Personalize the colors in your website. Colour values can be any valid CSS colour
-# white: #FFFFFF
-# light grey: #F5F5F5
-# grey: #D3D3D3
-# black: #404040
+## Personalize the colors in your website. Colour values can be any valid CSS colour
+## white: #FFFFFF
+## light grey: #F5F5F5
+## grey: #D3D3D3
+## black: #404040
 
 navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
@@ -75,14 +75,14 @@ name:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "liuwenjing.datascience@gmail.com"
-#  facebook: daattali
   github: nov05
-  twitter: WenjingLiu7
-#  reddit: yourname
-  linkedin: wenjing-liu-ba928627
   medium: lwj.liuwenjing
+  twitter: WenjingLiu7
+  linkedin: wenjing-liu-ba928627
+  email: "liuwenjing.datascience@gmail.com"
+  rss: true
+#  facebook: daattali
+#  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
