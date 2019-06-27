@@ -6,8 +6,9 @@ subtitle: Homo Sapiens
 
 ### My Name
 
-Nov05
+Wenjing Liu
 
 ### My History
 
-42
+10+ year SAP ABAP Consultant
+Data Science and Machine Learning Apprentice
