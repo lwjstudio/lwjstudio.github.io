@@ -11,4 +11,5 @@ Wenjing Liu
 ### My History
 
 10+ year SAP ABAP Consultant  
+
 Data Science and Machine Learning Apprentice  
