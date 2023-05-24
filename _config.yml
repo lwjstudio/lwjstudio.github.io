@@ -110,7 +110,8 @@ url-pretty: "Wenjing Liu"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-142113556-1"
+# google_analytics: "UA-142113556-1" ## obsoleted on 2023-05-24
+google_analytics: "G-S5K4SPGNP4"
 
 # Google Tag Manager ID
 #gtm: ""
