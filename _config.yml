@@ -75,10 +75,10 @@ name:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  medium: lwj.liuwenjing
+  medium: liuwenjing.datascience
   twitter: WenjingLiu7
   github: nov05
-  linkedin: wenjing-liu-ba928627
+  linkedin: liuwenjing7
   email: "liuwenjing.datascience@gmail.com"
   rss: true
 #  facebook: daattali
